@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(artifact-design)",
+      "Artifact",
+      "PowerShell(Start-Process \"C:\\\\Users\\\\mrgol\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-mrgol-PycharmProjects-claude\\\\1a4328d7-a6be-4119-b9ff-4fce6e006789\\\\scratchpad\\\\tictactoe.html\")",
+      "PowerShell(& \"C:\\\\Program Files\\\\JetBrains\\\\PyCharm 2025.2.5\\\\bin\\\\pycharm64.exe\" \"C:\\\\Users\\\\mrgol\\\\PycharmProjects\\\\claude\" \"C:\\\\Users\\\\mrgol\\\\PycharmProjects\\\\claude\\\\tictactoe.html\")"
+    ]
+  }
+}
